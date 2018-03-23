@@ -1,0 +1,2 @@
+This is Sample2 text file.
+This is to see the difference using diff command.
