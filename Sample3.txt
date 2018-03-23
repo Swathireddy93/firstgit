@@ -1,2 +1,17 @@
-This is Sample3 text file.
-This is to see the difference.
+* Sample3 text file created
+* Sample3 text file created
+* Delete File1.txt
+* Changes made
+* Another change made
+* Another change made
+* Another change made
+* Simple text file created
+*   Merge branch 'master' of https://github.com/Swathireddy93/firstgit
+|\  
+| * Delete Sample2.txt
+* | Sample text created
+* | Sample created
+* | sample text created
+|/  
+* Create Sample2.txt
+* Initial commit
